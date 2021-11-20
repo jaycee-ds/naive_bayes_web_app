@@ -1,0 +1,12 @@
+name: Flask
+channels:
+  - defaults
+dependencies:
+  - flask
+  - python
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - gunicorn
+prefix: /Users/juancarlos/opt/anaconda3/envs/Flask

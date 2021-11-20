@@ -1,4 +1,3 @@
-# this is to reduce the slug size that is causing error while deployment
-Generating_data.py
-NB app deployment process.pdf
-Naive Bayes Model.py
+/Generating_data.py
+*.pdf
+/Naive Bayes Model.py
